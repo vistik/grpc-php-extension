@@ -8,9 +8,6 @@
 				"type": "heroku-sys-file",
 				"url": "https://raw.githubusercontent.com/vistik/grpc-php-extension/master/grpc.so"
 			},
-			"extra": {
-				"config": "etc/php/conf.d/v8js.ini-dist"
-			},
 			"name": "heroku-sys/ext-grpc",
 			"replace": {
 
