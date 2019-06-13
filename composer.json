@@ -5,7 +5,7 @@
 				"heroku-sys/hhvm": "*"
 			},
 			"dist": {
-				"type": "heroku-sys-file",
+				"type": "file",
 				"url": "https://raw.githubusercontent.com/vistik/grpc-php-extension/master/grpc.so"
 			},
 			"name": "heroku-sys/ext-grpc",
